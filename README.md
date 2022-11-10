@@ -7,8 +7,8 @@ This project provides two smart contracts, one that implements a ERC20 token and
 To test and deploy the smart contract follow the steps below.
 
 1. Install [Node.js](https://nodejs.org/en/download/)
-2. Clone the repository: `git clone <repo-url>`
-3. `cd <repo-name>`
+2. Clone the repository: `git clone https://github.com/algoexpert-io/ERC20-DEX.git`
+3. `cd ERC20-DEX`
 4. `npm install`
 5. To test the contract run `npx hardhat test`
 6. To deploy the contract to your `localhost` network do the following:
